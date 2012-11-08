@@ -26,5 +26,10 @@ I use it in conjunction with uwsgi's in-memory cache and django-tastypie:
 http://projects.unbit.it/uwsgi/wiki/CachingFramework
 https://github.com/toastdriven/django-tastypie
 
-Big ups to this article for helping me figure this out: http://soyrex.com/articles/django-nginx-memcached/
+I wrote about my use case for this on my blog:
+
+http://www.jnhasty.com/2012/11/08/caching-api-requests-with-django-tastypie-nginx-and-uwsgi/
+
+And big ups to this article for helping me come to this solution: 
+http://soyrex.com/articles/django-nginx-memcached/
 
